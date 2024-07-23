@@ -6,6 +6,5 @@ function sumArray(numbers) {
     return sum;
 }
 
-// مثال على الاستخدام
 let numbers = [1, 2, 3, 4, 5];
-console.log(sumArray(numbers)); // 15
+console.log(sumArray(numbers));
